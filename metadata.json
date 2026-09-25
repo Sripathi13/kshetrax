@@ -1,0 +1,6 @@
+{
+  "name": "Kshetra-X - National Land Governance & Policy Innovation Platform",
+  "description": "National Digital Platform for Research, Policy Innovation, and Evidence-Based Land Governance connecting researchers, policymakers, and GIS datasets for rapid, data-driven decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
